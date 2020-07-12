@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/samaracardoso27/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/samaracardoso27)
 
-✨ I'm Backend Engineer working at Itáu Unibanco / Brazil.
+✨ I'm Software Engineer working at Itáu Unibanco / SP.
 
 🌎 I'm from São Paulo / Brazil
 
-❤️ I love cat's
+❤️ I love cats
 
 💻 Languages: Java, Python, Node.JS
 
